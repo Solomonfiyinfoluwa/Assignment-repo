@@ -1,0 +1,74 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    padding: 2% 5%;
+}
+.Rightnav{
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: gray;
+}
+.Rightnavv{
+    text-decoration: none;
+    color: gray;
+    list-style-type: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+}
+.body{
+    display: flex;
+}
+.caption{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    width: 50%;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 115px;
+}
+.Crew{
+    background-image: url(./assets/home/background-home-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:950px;
+}
+.body img{
+    height: 75%;
+}
+.Meet{
+    color: #fff;
+    padding: 150px 0 0 115px;
+    font-size: 50px;
+}
+.caption h3{
+    color: gray;
+    text-align: left;
+}
+.caption h1{
+    color: #fff;
+    font-size: 25px;
+    text-align: left;
+}
+.caption p{
+    color: hwb(0 78% 21%);
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+}
+.Logo{
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
