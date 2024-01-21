@@ -87,3 +87,8 @@
     padding-left: 110px;
     cursor: pointer;
 }
+.Crewman{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 10px;
+}
